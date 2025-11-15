@@ -1,7 +1,4 @@
-#!/bin/bash
-set -euo pipefail
-
-echo "🚀 Iniciando despliegue de IMPERIUM v10 — Sistema Autosuficiente y Premium"
+IMPERIUM SYSTEM
 
 # 1. Crear estructura base
 ROOT="IMPERIUM_v10_Complete_Deployment_Stack"
